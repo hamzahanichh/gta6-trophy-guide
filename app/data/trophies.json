@@ -1,392 +1,649 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "updated": "2026-11-19",
+  "trophies": [
+    {
+      "id": "vice-got-a-price",
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "psnHidden": false,
+      "guide": "Earn the other 54 trophies first — the platinum unlocks by itself once the rest are done.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "exophase",
+        "fact": "54 trophies precede it"
+      }
+    },
+    {
+      "id": "just-like-paradise",
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Finish Gone Fishing, the prologue mission that opens the story.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "gtabase",
+        "fact": "the story's prologue mission"
+      }
+    },
+    {
+      "id": "paradise-lost",
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through Chapter 1 — the first of the story's five numbered chapters.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "gtabase",
+        "fact": "five numbered chapters"
+      }
+    },
+    {
+      "id": "t-s-ass-drug-money",
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play the story through to the end of Chapter 2.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "vice-city-baby",
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play the story through to the end of Chapter 3.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "top-of-the-world-ma",
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play the story through to the end of Chapter 4.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "you-gotta-know-when-to-get-off",
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "psnHidden": true,
+      "guide": "Finish The End of the Road, the 122nd and last of the numbered story missions.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "gtabase",
+        "fact": "mission 122, the finale"
+      }
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission Breakfast Run.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "break-the-bank",
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission The Cartel Heist.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "family-matters",
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission Child's Play.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "dwnfall",
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission Headliners.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "hi-jacked",
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission VCIA Takedown.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "snow-storm",
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play through the story mission Operation Savage Glory.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "a-long-road",
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "psnHidden": false,
+      "guide": "Reach 100% completion — the published tracker breaks it into 100 checklist items.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "100 checklist items"
+      }
+    },
+    {
+      "id": "cunning-stunts",
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Land 250 stunts as you play.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "master-of-none",
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Try each of the 9 activity types once.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "9 activity types"
+      }
+    },
+    {
+      "id": "the-shootist",
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Earn a gold medal in all 42 Shooting Range challenges.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "42 range challenges"
+      }
+    },
+    {
+      "id": "top-fun",
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Win a Top Fun Drone Race at each of the 14 locations.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "14 race locations"
+      }
+    },
+    {
+      "id": "earn-cash-not-kudos",
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Notch wins in 20 different races.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "baited-my-tackle",
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Take on Cal's fishing challenge and come out ahead of him.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "stick-fiddler",
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Finish any one arcade game.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "road-to-rehabilitation",
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play Andy's missions through to his final one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "this-was-no-boat-accident",
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play Kenton's missions through to his final one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "the-lone-rider",
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play Billy's missions through to his final one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "strangers-freaks",
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Complete 8 stranger strands across Leonida — only 4 of the 8 are documented so far.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "gtabase",
+        "fact": "4 of 8 strands documented"
+      }
+    },
+    {
+      "id": "supply-demand",
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play Randy's missions through to his final one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "spin-on-this",
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Play Tyrone's missions through to his final one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "positive-mental-attitude",
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Meditate at all 18 spots across Leonida.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "18 meditation spots"
+      }
+    },
+    {
+      "id": "fair-game",
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Complete Bret's hunt for the unique animal; which animal unlocks it is still unconfirmed.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "gtabase",
+        "fact": "target animal unconfirmed"
+      }
+    },
+    {
+      "id": "don-t-touch-my-deck",
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Collect the cards and complete 3 full card sets.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "you-wainker",
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Trigger WAiNK It at 100 locations around Leonida.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "one-last-thing",
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Complete 50 challenges as you play.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "hot-together",
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Pick up a 4-star wanted level with your partner, then lose it and escape the heat.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "retail-therapy",
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Rob 3 shops back-to-back with your partner without letting the wanted level drop.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "whip-it-good",
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Discover 100 vehicles across Leonida.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "gunslinger",
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Down 5 enemies in a single use of Combat Focus.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "catch-me-if-you-can",
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Make an unscheduled departure at the VCIA.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "challenging-tank",
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Take on the Rhinos — the tanks — and come through it.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "sneakthief",
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Rob a jewelry store clean without being detected.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "maximum-withdrawal",
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "psnHidden": false,
+      "guide": "Rob 5 bank vaults and get away after each one.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "a-classic-blitz-play",
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Rob an armored truck and escape with the take.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "the-goodtime-state",
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Explore all 52 areas of Leonida.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "52 areas to explore"
+      }
+    },
+    {
+      "id": "pest-control",
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Rob an illegal operation belonging to each of the 9 gangs.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "9 gang operations"
+      }
+    },
+    {
+      "id": "in-the-beginning",
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Sit down and enjoy the cocktail with a view on Ocean Beach.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "capital-offense",
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Smash your way out of a vehicle showroom, classic style.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "let-s-go-bowling",
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Land the follow-through at the Kolt & Associates bowling alley.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "personal-best",
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "See the partnership moment with mass appeal through to the end.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "actions-speak-louder",
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Keep making choices as you go — 500 of them are counted in all.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "500 choices counted"
+      }
+    },
+    {
+      "id": "bad-luck-i-guess",
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Unconfirmed: the working guess is succeeding on a second try at something you already failed once. Treat the trigger as speculation, not settled fact.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "powerpyx",
+        "fact": "guess, still unconfirmed"
+      },
+      "unconfirmed": true
+    },
+    {
+      "id": "the-truth-is-out-there",
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Witness the strange happening the description teases and let it play out.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "ten-pin",
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "psnHidden": true,
+      "guide": "Unconfirmed: the literal read is bowling someone over with a melee swing from a moving vehicle — the exact trigger is not settled.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "powerpyx",
+        "fact": "exact trigger unconfirmed"
+      },
+      "unconfirmed": true
+    },
+    {
+      "id": "dime-on-the-dollar",
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Launder $250,000 in marked bills through your contacts.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "treat-yo-self",
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Spend $100,000 across the shops.",
+      "citation": {
+        "basis": "description"
+      }
+    },
+    {
+      "id": "little-boxes",
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Buy all 8 garage properties.",
+      "citation": {
+        "basis": "external",
+        "sourceId": "psnprofiles",
+        "fact": "8 garage properties"
+      }
+    },
+    {
+      "id": "on-the-spot",
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "psnHidden": false,
+      "guide": "Register 10 vehicles to the Scooter Bros app.",
+      "citation": {
+        "basis": "description"
+      }
+    }
+  ]
 }

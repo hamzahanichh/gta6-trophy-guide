@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "01-tracker-filters-guide.png", "path": "/#/", "note": "tracker: chips, search, census, platinum strip, one row expanded with its evidence chip", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "02-roadmap-missables.png", "path": "/#/roadmap", "note": "roadmap: sourced split, open questions, phase 1 with note chips and a cannot-infer label", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "03-guide-citation.png", "path": "/#/trophy/the-shootist", "note": "trophy page: quoted official description, guide, PSNProfiles evidence chip, how-we-cite legend", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "04-spoilers-portability.png", "path": "/#/", "note": "tracker with the settings drawer open: censored unearned story rows behind it, export/import, sources, about", "viewport": { "width": 1280, "height": 800 } }
 ]

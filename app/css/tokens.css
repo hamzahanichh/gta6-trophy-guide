@@ -1,0 +1,42 @@
+/* tokens.css — the palette, type scale and spacing rules the whole app is themed with, as custom properties. */
+
+:root {
+  /* palette */
+  --bg: #101014;
+  --panel: #191922;
+  --panel-2: #20202c;
+  --line: #2a2a36;
+  --ink: #f1efe9;
+  --muted: #9a9aa6;
+  --brand: #ff4f87;
+  --earned: #31d9a2;
+  --missable: #f5a523;
+  --grade-platinum: #dfe8f2;
+  --grade-gold: #f2c14e;
+  --grade-silver: #aab4c2;
+  --grade-bronze: #c98d5f;
+  --censor: #3a3a48;
+
+  /* type: system stack only, four sizes */
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --mono: ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace;
+  --fs-15: 15px;
+  --fs-18: 18px;
+  --fs-24: 24px;
+  --fs-32: 32px;
+
+  /* space and shape */
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --radius: 10px;
+  --radius-s: 6px;
+  --row-h: 44px;
+  --content: 1040px;
+  --shadow: 0 12px 34px rgba(0, 0, 0, 0.45);
+
+  color-scheme: dark;
+}
